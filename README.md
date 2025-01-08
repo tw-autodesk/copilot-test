@@ -8,7 +8,7 @@ This exercise is meant to bring to light clever prompts and strategies to help C
 
 ## Getting Started
 
-For reference, here's the prompt I've been using. This prompt generated the two files in the "generated-code" directory. This directory contains a working test file for the basic example and a broken test file for the complex example.
+For reference, here's the prompt I've been using. Variations of this prompt generated the two files in the "generated-code" directory. This directory contains a working test file for the basic example and a broken test file for the complex example.
 
 ```
 I have provided a .ts file (file1: merge-transform-and-send.ts) without a corresponding .test.ts file.
